@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/eran/opsschool/opsschool-chef/class1","disabled":false,"__vagrantfile":true},"v-csc-6e20ef93b":{"id":"v-csc-6e20ef93b","guestpath":"/tmp/vagrant-chef/8bec17644b7774cdae853914e5cc69f0/cookbooks","hostpath":"/home/eran/opsschool/opsschool-chef/class1/cookbooks","disabled":false,"__vagrantfile":true}}}
